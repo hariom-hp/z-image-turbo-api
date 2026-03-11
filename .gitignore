@@ -9,9 +9,10 @@ Z-Image
 __pycache__/
 
 # Output Images
-*.jpg
-*.jpeg
-*.png
+# (Commented out so README showcase images can be uploaded)
+# *.jpg
+# *.jpeg
+# *.png
 
 # Environment files / IDE
 .env
