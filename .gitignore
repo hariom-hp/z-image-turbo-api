@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+
+# Go binaries
+server
+Z-Image
+
+# Python cache
+__pycache__/
+
+# Output Images
+*.jpg
+*.jpeg
+*.png
+
+# Environment files / IDE
+.env
+go_turbo_api.code-workspace
